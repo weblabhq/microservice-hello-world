@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Simple Hello, World! example using weblab.io microservices platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblabhq/microservice-hello-world.git"
+  },
+  "keywords": [
+    "microservice",
+    "microservices",
+    "weblab",
+    "rest",
+    "api"
+  ],
+  "author": "Cristian Guraliuc <cristi@weblab.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weblabhq/microservice-hello-world/issues"
+  },
+  "homepage": "https://github.com/weblabhq/microservice-hello-world#readme"
+}
