@@ -29,7 +29,9 @@ $ cd microservice-hello-world
 $ weblab deploy
 ```
 
-That's it. Running your microservice it's as simple as `weblab deploy` in the microservice directory.
+You'll receive a link like https://weblab.io/api/v1/run/[your-user-name]/hello-world-1.0.0/
+
+That's it. Running your microservice is as simple as `weblab deploy` in the microservice directory.
 
 ## Getting a Weblab account
 
