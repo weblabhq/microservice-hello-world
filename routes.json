@@ -1,4 +1,7 @@
 [{
   "path": "/",
   "handler": "index.js"
+}, {
+  "path": "/:name",
+  "handler": "url-param"
 }]
